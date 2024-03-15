@@ -1,0 +1,19 @@
+body {
+    background-color: skyblue;
+}
+
+.dough {
+    background-color: blue;
+    color: white;
+}
+
+.filling {
+    background-color: pink;
+    color: blue;
+}
+
+.instructions {
+    background-color: blue;
+    color: white;
+}
+
